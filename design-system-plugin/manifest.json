@@ -1,0 +1,7 @@
+{
+	"name": "Travel Design System Generator",
+	"id": "com.example.travel-design-system",
+	"api": "1.0.0",
+	"main": "code.js",
+	"editorType": ["figma"]
+}
